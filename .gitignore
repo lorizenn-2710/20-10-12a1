@@ -1,0 +1,7 @@
+# Git Ignore for 12A1 20/10 Web Project
+.DS_Store
+__MACOSX/
+Thumbs.db
+*.log
+.vscode/
+.idea/
